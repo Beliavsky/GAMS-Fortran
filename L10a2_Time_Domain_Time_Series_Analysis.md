@@ -1,4 +1,4 @@
-# Fortran Codes for GAMS Class L10a2: Time Domain Time Series Analysis
+## L10a2: Time Domain Time Series Analysis
 
 The GAMS Class L10a2, "Time domain time series analysis," includes methods for analyzing time series data in the time domain, with subclasses such as summary statistics (L10a2a), stationarity analysis (L10a2b), autoregressive models (L10a2c), ARMA/ARIMA models (L10a2d), state-space analysis (e.g., Kalman filtering, L10a2e), and analysis of locally stationary series (L10a2f).
 
